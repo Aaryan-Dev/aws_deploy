@@ -62,7 +62,7 @@ Parameters:
     Description: The type of Amazon EC2 Linux instances that will be launched for this project.
   AutoScalingGroupMinSize:
     Type: Number
-    Default: 2
+    Default: 0
     Description: Enter the Min Size for the ASG
   AutoScalingGroupMaxSize:
     Type: Number
